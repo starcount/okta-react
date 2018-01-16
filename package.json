@@ -1,5 +1,5 @@
 {
-  "name": "@okta/okta-react",
+  "name": "@starcount/okta-react",
   "version": "0.0.11",
   "description": "React support for Okta",
   "main": "./dist/index.js",
